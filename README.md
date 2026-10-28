@@ -1,6 +1,6 @@
-![Ultronen — Building with AI](assets/banner.png)
+![Ultroncn — Building with AI](assets/banner.png)
 
-# Hi, I'm Ultronen.
+# Hi, I'm Ultroncn.
 
 I build AI applications and developer tools.<br>
 Exploring agents, RAG, and practical LLM systems.
@@ -9,7 +9,7 @@ Exploring agents, RAG, and practical LLM systems.
 
 ### Selected work
 
-**[Session Archive](https://github.com/Ultronen/dsh-archived-chats)**<br>
+**[Session Archive](https://github.com/Ultroncn/dsh-archived-chats)**<br>
 Search, organize, and back up conversations in DeepSeek Harness.
 
 ---
