@@ -1,14 +1,23 @@
-<div align="center">
+![Ultronen — Building with AI](assets/banner.png)
 
-# Hi, I'm Ultronen
+# Hi, I'm Ultronen.
 
-**Full-stack engineer focused on AI applications, agent systems, and RAG.**
+I build AI applications and developer tools.<br>
+Exploring agents, RAG, and practical LLM systems.
 
-专注 AI 应用、Agent 系统与 RAG 工程的全栈工程师。
+---
 
-</div>
+### Selected work
 
-## Projects
+**[Session Archive](https://github.com/Ultronen/dsh-archived-chats)**<br>
+Search, organize, and back up conversations in DeepSeek Harness.
 
-- [Session Archive](https://github.com/Ultronen/dsh-archived-chats) — Local-first session history for DeepSeek Harness.
-- [Liquid Glass](https://github.com/Ultronen/dsh-liquid-glass) — Privacy-first visual customization for DeepSeek Harness.
+---
+
+### Open source
+
+[Google ADK-Go](https://github.com/google/adk-go/pull/1547) · [Dify](https://github.com/langgenius/dify/pull/42523)
+
+---
+
+`$ build something useful_`
