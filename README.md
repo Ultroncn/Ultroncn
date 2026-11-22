@@ -1,6 +1,6 @@
 ### Ultron
 
-I build AI applications and developer tools. I maintain two plugins for DeepSeek Harness and contribute fixes to agent and ML infrastructure.
+Full-stack engineer building AI agent applications and developer tools. I love technology and enjoy turning ideas into things people can actually use.
 
 **Projects**
 
