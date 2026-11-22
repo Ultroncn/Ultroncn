@@ -1,6 +1,6 @@
 ### Ultron
 
-Full-stack engineer building AI agent applications and developer tools. I love technology and enjoy turning ideas into things people can actually use.
+全栈工程师，专注于构建 AI Agent 应用和开发者工具。热爱技术，喜欢把想法做成真正有人用的东西。
 
 **Projects**
 
